@@ -81,9 +81,9 @@ cases_aus_0322
 
 # Display percentages
 
-pct_north_0322 <- cases_north_0322/cases_0322 * 100
+pct_north_0322 <- cases_north_0322/cases_0322
 
-pct_aus_0322 <- cases_aus_0322/cases_0322 * 100
+pct_aus_0322 <- cases_aus_0322/cases_0322
 
 pct_north_0322
 pct_aus_0322
